@@ -1,11 +1,18 @@
+thursday
+These are my Monday class notes
+All about how to use Git
+Worlds are unfolding
+=======
 Making my first change AQH
 
 
 Make another change
-Do something else
+
+master
 tra la la
 
-here's another change
+Thank you to the awesome instructors
 
-more notes for a monday night!!!!
-monday night
+See Notes in Mac for JavaScript notes CodeAcademy course.
+
+Now I am adding a note so I can check this in the terminal.
